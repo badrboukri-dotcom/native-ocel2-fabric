@@ -1,0 +1,104 @@
+{
+  "events": 141998,
+  "objects": 78175,
+  "eventTypes": 21,
+  "objectTypes": 3,
+  "top_activities": [
+    [
+      "DOC_Status_Valid",
+      17288
+    ],
+    [
+      "WF_Complete_DGI",
+      8170
+    ],
+    [
+      "WF_Start_DGI",
+      8170
+    ],
+    [
+      "WF_Start_RCCM1",
+      8154
+    ],
+    [
+      "WF_Complete_REVISION",
+      8153
+    ],
+    [
+      "WF_Complete_RCCM1",
+      8138
+    ],
+    [
+      "WF_Start_REVISION",
+      8130
+    ],
+    [
+      "WF_Complete_RCCM2",
+      8070
+    ],
+    [
+      "WF_Start_RCCM2",
+      8070
+    ],
+    [
+      "WF_Complete_NINA",
+      8043
+    ],
+    [
+      "WF_Start_NINA",
+      8042
+    ],
+    [
+      "WF_Start_TREASURY",
+      7918
+    ],
+    [
+      "WF_Complete_TREASURY",
+      7916
+    ],
+    [
+      "WF_Complete_WITHDRAWAL",
+      4351
+    ],
+    [
+      "WF_Start_WITHDRAWAL",
+      4326
+    ],
+    [
+      "WF_Complete_DATAENTRY",
+      4217
+    ],
+    [
+      "WF_Start_DATAENTRY",
+      4212
+    ],
+    [
+      "SR_CreateDraft",
+      3781
+    ],
+    [
+      "SR_Processed",
+      3734
+    ],
+    [
+      "SR_Finished",
+      3114
+    ],
+    [
+      "DOC_Status_Correction",
+      1
+    ]
+  ],
+  "object_type_counts": {
+    "Document": 17178,
+    "ServiceRequest": 3878,
+    "WorkItem": 57119
+  },
+  "relationships_per_event": {
+    "min": 1,
+    "p50": 2,
+    "max": 2
+  },
+  "time_min": "2024-10-01T07:29:05Z",
+  "time_max": "2025-09-30T16:12:42Z"
+}

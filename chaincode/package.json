@@ -1,0 +1,17 @@
+{
+  "name": "ocel-chaincode",
+  "version": "1.0.0",
+  "description": "Native OCEL 2.0 emission chaincode for Hyperledger Fabric",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "fabric-contract-api": "^2.5.0",
+    "fabric-shim": "^2.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

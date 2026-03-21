@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+pm4py_env/
+venv/
+.venv/
+
+# Data (too large / confidential)
+*.ndjson
+*_native_ocel2_generated.json
+*.tsv
+
+# Node
+node_modules/
+dist/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
